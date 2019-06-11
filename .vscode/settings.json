@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.cpp": "objective-cpp",
+        "eth_header.h": "c",
+        "transfer.h": "c",
+        "initializer_list": "cpp",
+        "utility": "cpp"
+    }
+}
